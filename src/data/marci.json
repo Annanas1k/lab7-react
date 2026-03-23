@@ -1,0 +1,7 @@
+[
+  { "id": "bmw", "label": "BMW", "pretBaza": 25000 },
+  { "id": "mercedes", "label": "Mercedes-Benz", "pretBaza": 28000 },
+  { "id": "audi", "label": "Audi", "pretBaza": 24000 },
+  { "id": "toyota", "label": "Toyota", "pretBaza": 18000 },
+  { "id": "volkswagen", "label": "Volkswagen", "pretBaza": 16000 }
+]

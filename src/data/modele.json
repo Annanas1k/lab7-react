@@ -1,0 +1,292 @@
+{
+  "bmw": [
+    {
+      "id": "bmw-seria3",
+      "label": "Seria 3",
+      "pret": 0,
+      "imagine": "/images/bmw-seria3.jpg",
+      "descriere": "Sedan sport compact, clasic BMW"
+    },
+    {
+      "id": "bmw-seria5",
+      "label": "Seria 5",
+      "pret": 5000,
+      "imagine": "/images/bmw-seria5.jpg",
+      "descriere": "Sedan executiv de lux"
+    },
+    {
+      "id": "bmw-seria7",
+      "label": "Seria 7",
+      "pret": 15000,
+      "imagine": "/images/bmw-seria7.jpg",
+      "descriere": "Limuzina de top din gama BMW"
+    },
+    {
+      "id": "bmw-x3",
+      "label": "X3",
+      "pret": 8000,
+      "imagine": "/images/bmw-x3.jpg",
+      "descriere": "SUV compact premium"
+    },
+    {
+      "id": "bmw-x5",
+      "label": "X5",
+      "pret": 15000,
+      "imagine": "/images/bmw-x5.jpg",
+      "descriere": "SUV de lux mediu"
+    },
+    {
+      "id": "bmw-x7",
+      "label": "X7",
+      "pret": 25000,
+      "imagine": "/images/bmw-x7.jpg",
+      "descriere": "SUV mare de lux, 7 locuri"
+    },
+    {
+      "id": "bmw-m3",
+      "label": "M3",
+      "pret": 20000,
+      "imagine": "/images/bmw-m3.jpg",
+      "descriere": "Sedan sport de înaltă performanță"
+    },
+    {
+      "id": "bmw-m5",
+      "label": "M5",
+      "pret": 30000,
+      "imagine": "/images/bmw-m5.jpg",
+      "descriere": "Sedan sport executiv M"
+    }
+  ],
+  "mercedes": [
+    {
+      "id": "mercedes-clasa-a",
+      "label": "Clasa A",
+      "pret": 0,
+      "imagine": "/images/mercedes-clasa-a.jpg",
+      "descriere": "Hatchback compact premium"
+    },
+    {
+      "id": "mercedes-clasa-c",
+      "label": "Clasa C",
+      "pret": 3000,
+      "imagine": "/images/mercedes-clasa-c.jpg",
+      "descriere": "Sedan compact de lux"
+    },
+    {
+      "id": "mercedes-clasa-e",
+      "label": "Clasa E",
+      "pret": 8000,
+      "imagine": "/images/mercedes-clasa-e.jpg",
+      "descriere": "Sedan executiv elegant"
+    },
+    {
+      "id": "mercedes-clasa-s",
+      "label": "Clasa S",
+      "pret": 20000,
+      "imagine": "/images/mercedes-clasa-s.jpg",
+      "descriere": "Limuzina de lux flagship Mercedes"
+    },
+    {
+      "id": "mercedes-glc",
+      "label": "GLC",
+      "pret": 9000,
+      "imagine": "/images/mercedes-glc.jpg",
+      "descriere": "SUV compact premium"
+    },
+    {
+      "id": "mercedes-gle",
+      "label": "GLE",
+      "pret": 14000,
+      "imagine": "/images/mercedes-gle.jpg",
+      "descriere": "SUV mediu de lux"
+    },
+    {
+      "id": "mercedes-gls",
+      "label": "GLS",
+      "pret": 22000,
+      "imagine": "/images/mercedes-gls.jpg",
+      "descriere": "SUV mare, 7 locuri"
+    },
+    {
+      "id": "mercedes-amg-gt",
+      "label": "AMG GT",
+      "pret": 35000,
+      "imagine": "/images/mercedes-amg-gt.jpg",
+      "descriere": "Sportivă de înaltă performanță"
+    }
+  ],
+  "audi": [
+    {
+      "id": "audi-a3",
+      "label": "A3",
+      "pret": 0,
+      "imagine": "/images/audi-a3.jpg",
+      "descriere": "Sedan compact premium"
+    },
+    {
+      "id": "audi-a4",
+      "label": "A4",
+      "pret": 4000,
+      "imagine": "/images/audi-a4.jpg",
+      "descriere": "Sedan mediu de lux"
+    },
+    {
+      "id": "audi-a6",
+      "label": "A6",
+      "pret": 9000,
+      "imagine": "/images/audi-a6.jpg",
+      "descriere": "Sedan executiv elegant"
+    },
+    {
+      "id": "audi-a8",
+      "label": "A8",
+      "pret": 20000,
+      "imagine": "/images/audi-a8.jpg",
+      "descriere": "Limuzina flagship Audi"
+    },
+    {
+      "id": "audi-q3",
+      "label": "Q3",
+      "pret": 5000,
+      "imagine": "/images/audi-q3.jpg",
+      "descriere": "SUV compact premium"
+    },
+    {
+      "id": "audi-q5",
+      "label": "Q5",
+      "pret": 10000,
+      "imagine": "/images/audi-q5.jpg",
+      "descriere": "SUV mediu premium"
+    },
+    {
+      "id": "audi-q7",
+      "label": "Q7",
+      "pret": 18000,
+      "imagine": "/images/audi-q7.jpg",
+      "descriere": "SUV mare, 7 locuri"
+    },
+    {
+      "id": "audi-rs6",
+      "label": "RS6 Avant",
+      "pret": 28000,
+      "imagine": "/images/audi-rs6.jpg",
+      "descriere": "Break sport de înaltă performanță"
+    }
+  ],
+  "toyota": [
+    {
+      "id": "toyota-yaris",
+      "label": "Yaris",
+      "pret": 0,
+      "imagine": "/images/toyota-yaris.jpg",
+      "descriere": "Citadină compactă și economică"
+    },
+    {
+      "id": "toyota-corolla",
+      "label": "Corolla",
+      "pret": 2000,
+      "imagine": "/images/toyota-corolla.jpg",
+      "descriere": "Sedan fiabil și popular"
+    },
+    {
+      "id": "toyota-camry",
+      "label": "Camry",
+      "pret": 6000,
+      "imagine": "/images/toyota-camry.jpg",
+      "descriere": "Sedan mediu elegant"
+    },
+    {
+      "id": "toyota-rav4",
+      "label": "RAV4",
+      "pret": 7000,
+      "imagine": "/images/toyota-rav4.jpg",
+      "descriere": "SUV compact versatil"
+    },
+    {
+      "id": "toyota-highlander",
+      "label": "Highlander",
+      "pret": 12000,
+      "imagine": "/images/toyota-highlander.jpg",
+      "descriere": "SUV mare, 7 locuri"
+    },
+    {
+      "id": "toyota-land-cruiser",
+      "label": "Land Cruiser",
+      "pret": 20000,
+      "imagine": "/images/toyota-land-cruiser.jpg",
+      "descriere": "SUV off-road legendar"
+    },
+    {
+      "id": "toyota-gr86",
+      "label": "GR86",
+      "pret": 8000,
+      "imagine": "/images/toyota-gr86.jpg",
+      "descriere": "Coupe sport pur și accesibil"
+    },
+    {
+      "id": "toyota-supra",
+      "label": "GR Supra",
+      "pret": 18000,
+      "imagine": "/images/toyota-supra.jpg",
+      "descriere": "Sportivă iconică revenită"
+    }
+  ],
+  "volkswagen": [
+    {
+      "id": "vw-polo",
+      "label": "Polo",
+      "pret": 0,
+      "imagine": "/images/vw-polo.jpg",
+      "descriere": "Citadină compactă și practică"
+    },
+    {
+      "id": "vw-golf",
+      "label": "Golf",
+      "pret": 2000,
+      "imagine": "/images/vw-golf.jpg",
+      "descriere": "Hatchback compact iconic"
+    },
+    {
+      "id": "vw-passat",
+      "label": "Passat",
+      "pret": 5000,
+      "imagine": "/images/vw-passat.jpg",
+      "descriere": "Sedan mediu practic și elegant"
+    },
+    {
+      "id": "vw-arteon",
+      "label": "Arteon",
+      "pret": 9000,
+      "imagine": "/images/vw-arteon.jpg",
+      "descriere": "Fastback de lux accesibil"
+    },
+    {
+      "id": "vw-tiguan",
+      "label": "Tiguan",
+      "pret": 6000,
+      "imagine": "/images/vw-tiguan.jpg",
+      "descriere": "SUV compact popular"
+    },
+    {
+      "id": "vw-touareg",
+      "label": "Touareg",
+      "pret": 14000,
+      "imagine": "/images/vw-touareg.jpg",
+      "descriere": "SUV mare de lux VW"
+    },
+    {
+      "id": "vw-id4",
+      "label": "ID.4",
+      "pret": 8000,
+      "imagine": "/images/vw-id4.jpg",
+      "descriere": "SUV electric complet"
+    },
+    {
+      "id": "vw-golf-gti",
+      "label": "Golf GTI",
+      "pret": 7000,
+      "imagine": "/images/vw-golf-gti.jpg",
+      "descriere": "Hatchback sport iconic"
+    }
+  ]
+}

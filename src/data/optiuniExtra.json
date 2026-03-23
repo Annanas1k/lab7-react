@@ -1,0 +1,8 @@
+[
+  { "id": "trapa", "label": "Trapă panoramică", "pret": 1200 },
+  { "id": "jante", "label": "Jante sport 19\"", "pret": 900 },
+  { "id": "camera360", "label": "Cameră 360°", "pret": 700 },
+  { "id": "pilotAutomat", "label": "Pilot automat adaptiv", "pret": 1500 },
+  { "id": "audioUpgrade", "label": "Sistem audio premium", "pret": 800 },
+  { "id": "protectiePiele", "label": "Protecție piele scaune", "pret": 400 }
+]

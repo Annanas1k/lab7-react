@@ -1,0 +1,20 @@
+[
+  {
+    "id": "standard",
+    "label": "Standard",
+    "pret": 0,
+    "dotari": ["Aer condiționat", "Radio", "Geamuri electrice"]
+  },
+  {
+    "id": "comfort",
+    "label": "Comfort",
+    "pret": 3000,
+    "dotari": ["Climatronic", "Navigație", "Scaune încălzite", "Parktronic"]
+  },
+  {
+    "id": "premium",
+    "label": "Premium",
+    "pret": 7000,
+    "dotari": ["Pilot automat", "Scaune ventilate", "Sunroof", "Faruri LED Matrix", "360° Camera"]
+  }
+]
