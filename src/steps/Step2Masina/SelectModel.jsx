@@ -33,7 +33,7 @@ export const SelectModel = ({ errors }) => {
             <div>
               <div className="fw-semibold">{model.label}</div>
               <div className="text-muted" style={{ fontSize: "0.75rem" }}>
-                {model.pret > 0 ? `+${model.pret.toLocaleString()} €` : "Inclus"}
+                {model.pret > 0 ? `+${model.pret.toLocaleString()} $` : "Inclus"}
               </div>
             </div>
             {fields.model === model.id && (

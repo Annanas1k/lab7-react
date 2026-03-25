@@ -1,8 +1,8 @@
 [
-  { "id": "trapa", "label": "Trapă panoramică", "pret": 1200 },
-  { "id": "jante", "label": "Jante sport 19\"", "pret": 900 },
-  { "id": "camera360", "label": "Cameră 360°", "pret": 700 },
-  { "id": "pilotAutomat", "label": "Pilot automat adaptiv", "pret": 1500 },
-  { "id": "audioUpgrade", "label": "Sistem audio premium", "pret": 800 },
-  { "id": "protectiePiele", "label": "Protecție piele scaune", "pret": 400 }
+  { "id": "trapa", "label": "Panoramic sunroof", "pret": 1200 },
+  { "id": "jante", "label": "19\" sports wheels", "pret": 900 },
+  { "id": "camera360", "label": "Camera 360°", "pret": 700 },
+  { "id": "pilotAutomat", "label": "Adaptive cruise control", "pret": 1500 },
+  { "id": "audioUpgrade", "label": "Premium audio system", "pret": 800 },
+  { "id": "protectiePiele", "label": "Leather seat protection", "pret": 400 }
 ]

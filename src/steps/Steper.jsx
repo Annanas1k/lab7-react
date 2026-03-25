@@ -1,14 +1,16 @@
 import { useFormState } from "../context/useForm"
 import { Step1Personal } from "./Step1Personal/Step1Personal"
 import { Step2Masina } from "./Step2Masina/Step2Masina"
+import { Step3Optiuni } from "./Step3Optiuni/Step3Optiuni"
+import { Step4Review } from "./Step4Review/Step4Review"
 
 
 
 const steps = [
   { id: 0, label: "Personal Data", icon: "👤", step: <Step1Personal />},
   { id: 1, label: "Selecat Car", icon: "🚗", step: <Step2Masina /> },
-  { id: 2, label: "Extra Options", icon: "⚙️" },
-  { id: 3, label: "Confirm", icon: "✅" },
+  { id: 2, label: "Extra Options", icon: "⚙️", step: <Step3Optiuni /> },
+  { id: 3, label: "Confirm", icon: "✅", step: <Step4Review /> },
 ]
 
 

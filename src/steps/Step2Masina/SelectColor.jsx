@@ -40,7 +40,7 @@ export const SelectColor = ({ errors }) => {
             <span className="fw-semibold small">{culoare.label}</span>
             {culoare.pret > 0 && (
               <span className="text-muted" style={{ fontSize: "0.7rem" }}>
-                +{culoare.pret} €
+                +{culoare.pret} $
               </span>
             )}
           </div>

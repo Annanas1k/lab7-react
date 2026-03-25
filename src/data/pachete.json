@@ -3,18 +3,18 @@
     "id": "standard",
     "label": "Standard",
     "pret": 0,
-    "dotari": ["Aer condiționat", "Radio", "Geamuri electrice"]
+    "dotari": ["Air conditioning", "Radio", "Electric windows"]
   },
   {
     "id": "comfort",
     "label": "Comfort",
     "pret": 3000,
-    "dotari": ["Climatronic", "Navigație", "Scaune încălzite", "Parktronic"]
+    "dotari": ["Climatronic", "Navigation", "Heated seats", "Parktronic"]
   },
   {
     "id": "premium",
     "label": "Premium",
     "pret": 7000,
-    "dotari": ["Pilot automat", "Scaune ventilate", "Sunroof", "Faruri LED Matrix", "360° Camera"]
+    "dotari": ["Cruise control", "Ventilated seats", "Sunroof", "Matrix LED headlights", "360° Camera"]
   }
 ]

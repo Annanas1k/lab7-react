@@ -31,7 +31,7 @@ export const SelectMarca = ({ errors }) => {
             <div>
               <div className="fw-semibold">{marca.label}</div>
               <div className="text-muted" style={{ fontSize: "0.75rem" }}>
-                de la {marca.pretBaza.toLocaleString()} €
+                de la {marca.pretBaza.toLocaleString()} $
               </div>
             </div>
             {fields.marca === marca.id && (
