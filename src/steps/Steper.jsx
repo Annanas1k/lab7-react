@@ -1,10 +1,12 @@
 import { useFormState } from "../context/useForm"
+import { Step1Personal } from "./Step1Personal/Step1Personal"
+import { Step2Masina } from "./Step2Masina/Step2Masina"
 
 
 
 const steps = [
-  { id: 0, label: "Personal Data", icon: "👤" },
-  { id: 1, label: "Selecat Car", icon: "🚗" },
+  { id: 0, label: "Personal Data", icon: "👤", step: <Step1Personal />},
+  { id: 1, label: "Selecat Car", icon: "🚗", step: <Step2Masina /> },
   { id: 2, label: "Extra Options", icon: "⚙️" },
   { id: 3, label: "Confirm", icon: "✅" },
 ]
@@ -78,6 +80,9 @@ const {currentStep} = useFormState()
           })}
                 </div>
             </div>
+            {/* <div className="mt-4">
+      {steps[currentStep]?.step}
+    </div> */}
         </div>
     )
 }

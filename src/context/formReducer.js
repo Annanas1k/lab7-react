@@ -14,7 +14,7 @@ export const initialState = {
     model: "",
     an: "",
     culoare: "",
-    transmisie: "manuala",
+    transmisie: "manual",
     // Pasul 3
     pachet: "standard",
     optiuniExtra: [],
